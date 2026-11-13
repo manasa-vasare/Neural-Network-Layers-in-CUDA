@@ -1,0 +1,23 @@
+# Build output artifacts
+*.exe
+*.obj
+*.o
+*.lib
+*.exp
+*.pdb
+*.ilk
+bin/
+build/
+
+# IDE / Editor configuration
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.suo
+*.user
+
+# OS-specific
+Thumbs.db
+Desktop.ini
+.DS_Store
